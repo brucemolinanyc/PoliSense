@@ -1,0 +1,49 @@
+{
+
+"article1": 
+{
+"author": "Jarrett Williams",
+"base": "https://www.breitbart.com",
+"provider": "breitbart",
+"published_date": "2019-04-06T04:00:00+00:00",
+"keywords": ["drugs"],
+"headline": "Internal emails between Planned Parenthood and the California Health and Human Services (CHHS) agency reveal the abortion industry giant pressured the state agency to force religious groups and churches to cover elective abortions.",
+"sentiment": {"neg": 0.054, "neu": 0.946, "pos": 0.0, "compound": -0.2263}
+},
+
+"article3": 
+{
+"author": "Greg Stannard",
+"base": "https://www.breitbart.com",
+"provider": "breitbart",
+"published_date": "2019-04-06T04:00:00+00:00",
+"keywords": ["guns"],
+"headline": "Guns Down America, a gun-control advocacy group, has graded 15 banks based on their support for the gun industry, Tiffany Hsu of the NYT reports. Most received dismal appraisals.",
+"sentiment": {"neg": 0.054, "neu": 0.946, "pos": 0.0, "compound": -0.2263}
+},
+
+"article4": 
+{
+"author": "Tony Park",
+"base": "https://www.breitbart.com",
+"provider": "breitbart",
+"published_date": "2019-04-06T04:00:00+00:00",
+"keywords": ["knives"],
+"headline": "Internal emails between Planned Parenthood and the California Health and Human Services (CHHS) agency reveal the abortion industry giant pressured the state agency to force religious groups and churches to cover elective abortions.",
+"sentiment": {"neg": 0.054, "neu": 0.946, "pos": 0.0, "compound": -0.2263}
+},
+
+"article5": 
+{
+"author": "Tony Park",
+"base": "https://www.breitbart.com",
+"provider": "breitbart",
+"published_date": "2019-04-06T04:00:00+00:00",
+"keywords": ["knives"],
+"headline": "Internal emails between Planned Parenthood and the California Health and Human Services (CHHS) agency reveal the abortion industry giant pressured the state agency to force religious groups and churches to cover elective abortions.",
+"sentiment": {"neg": 0.054, "neu": 0.946, "pos": 0.0, "compound": -0.2263}
+}
+
+}
+
+

@@ -1,0 +1,49 @@
+{'author': 'Dr. Susan Berry',
+compound:0.0,/nneg:0.0,/nneu:1.0,/npos:0.0,/n'base': 'https://www.breitbart.com',
+compound:0.0,/nneg:0.0,/nneu:1.0,/npos:0.0,/n'provider': 'breitbart',
+compound:0.0,/nneg:0.0,/nneu:1.0,/npos:0.0,/n'published_date': '2019-04-06T04:00:00+00:00',
+compound:0.0,/nneg:0.0,/nneu:1.0,/npos:0.0,/n'keywords': ['parenthood', 'elective', 'churches', 'plans', 'force', 'pressured', 'health', 'pay', 'coverage', 'emails', 'planned', 'state', 'reveal', 'abortions', 'california', 'abortion']}
+compound:0.0,/nneg:0.0,/nneu:1.0,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/n'summary': 'Internal emails between Planned Parenthood and the California Health and Human Services (CHHS) agency reveal the abortion industry giant pressured the state agency to force religious groups and churches to cover elective abortions.
+compound:-0.2263,/nneg:0.054,/nneu:0.946,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nThree churches filed a notice of appeal Thursday in the U.S. District Court for the Eastern District of California that includes the emails revealing conversations between Planned Parenthood and the state health agency, reported Catholic News Agency (CNA) Friday.
+compound:0.0,/nneg:0.0,/nneu:1.0,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nIn the emails, lobbyists for the abortion vendor insisted that religious groups, churches, and, specifically, Catholic colleges, be forced to offer coverage for elective abortions.
+compound:-0.4588,/nneg:0.111,/nneu:0.889,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/n“DMHC will rescind their approval” of insurance plans that exclude elective abortion coverage, Pittman continued with Planned Parenthood’s demands.
+compound:-0.2263,/nneg:0.095,/nneu:0.905,/npos:0.0,/nTwo years later, the Obama HHS Office of Civil Rights upheld the California mandate that required churches in California to pay for elective abortions.', 'text': 'Internal emails between Planned Parenthood and the California Health and Human Services (CHHS) agency reveal the abortion industry giant pressured the state agency to force religious groups and churches to cover elective abortions.\
+compound:-0.3182,/nneg:0.056,/nneu:0.944,/npos:0.0,/nThree churches filed a notice of appeal Thursday in the U.S. District Court for the Eastern District of California that includes the emails revealing conversations between Planned Parenthood and the state health agency, reported Catholic News Agency (CNA) Friday.
+compound:0.0,/nneg:0.0,/nneu:1.0,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nIn the emails, lobbyists for the abortion vendor insisted that religious groups, churches, and, specifically, Catholic colleges, be forced to offer coverage for elective abortions.
+compound:-0.4588,/nneg:0.111,/nneu:0.889,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nIn one email, dated February 3, 2014, Beth Parker, chief legal counsel for Planned Parenthood Affiliates of California (PPAC), wrote to Shelley Rouillard at the state health agency’s Department of Managed Health Care (DMHC) — with a copy to, among others, Melissa Goodman at the American Civil Liberties Union (ACLU) — on the subject of “[e]xclusion of abortion from health plans”:
+compound:0.7906,/nneg:0.0,/nneu:0.873,/npos:0.127,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nShelley We are writing to request another meeting with DMHC to discuss plans that are excluding abortion from their coverage. We received a response from Anthem that they believe their practice complies with the law. As a result, Loyola Marymount employees are currently paying additional premiums for third party coverage of abortion. Santa Clara University also has stated that it believes it can exclude elective abortions from coverage. … Thanks so much, Beth Beth H. Parker, Chief Legal Counsel Planned Parenthood Affiliates of California
+compound:0.6369,/nneg:0.022,/nneu:0.895,/npos:0.083,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nA subsequent email between Planned Parenthood lobbyist Brianna Pittman and a CHHS staffer revealed Pittman stressing the need to “follow up” and “set up a time to meet about PPAC’s priorities this year.”
+compound:-0.3612,/nneg:0.079,/nneu:0.921,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/n“[T]he most timely is a spot bill to address the issue that DMHC has approved, and Catholic Universities have been purchasing, large group employee health plans that exclude certain types of abortions,” Pittman wrote, adding she met with “Donna Campbell at HHS yesterday to discuss this and explore whether there is a regulatory/administrative fix or if legislation is needed.”
+compound:0.4588,/nneg:0.031,/nneu:0.888,/npos:0.081,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nPittman continued that Planned Parenthood had already drafted legislation “to address the issue in case there is not a regulatory fix.”
+compound:0.0,/nneg:0.0,/nneu:1.0,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nPlanned Parenthood’s Pittman then increased pressure on Campbell at the state health agency:
+compound:-0.0258,/nneg:0.144,/nneu:0.719,/npos:0.137,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nWhile we would prefer to see this resolved without legislation, we are concerned with DMHC’s ability to find a solution based on several months of conversation and the inconsistencies in DMHC policy on abortion coverage we uncovered in health plan approval documents … We really want to find a comprehensive resolution to this issue, whether legislative or administrative.
+compound:0.8798,/nneg:0.0,/nneu:0.788,/npos:0.212,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nPittman then proposed a deal with the state health agency:
+compound:0.0,/nneg:0.0,/nneu:1.0,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/n[O]ur folks would feel positive about pursing [sic] an administrative solution, in lieu of legislation this year, if the Administration would agree to: – Going forward, DMHC will not approve any further plans that exclude coverage for abortion or other reproductive health care service. This includes a clarification that there is no such thing as an elective or voluntary abortion exclusion. Simply saying that plans need to cover “medically necessary” abortions has been the source of the issue and does not solve the problem.
+compound:0.7885,/nneg:0.083,/nneu:0.77,/npos:0.146,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/n“DMHC will rescind their approval” of insurance plans that exclude elective abortion coverage, Pittman continued with Planned Parenthood’s demands.
+compound:-0.2263,/nneg:0.095,/nneu:0.905,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nSubsequently, in August 2014, DMHC declared that, under Obamacare, abortion was now “basic health care.” As a result of this redefinition, all insurance plans in the state — even those of churches and other religious organizations — were now required to provide coverage for elective abortions.
+compound:0.0,/nneg:0.0,/nneu:1.0,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nTwo years later, the Obama HHS Office of Civil Rights upheld the California mandate that required churches in California to pay for elective abortions. Three churches — Foothill Church in Glendora, Calvary Chapel Chino Hills in Chino, and The Shepherd of the Hills Church in Porter Ranch — had filed a lawsuit against the rule, arguing their conscience rights were protected under the Weldon Amendment.
+compound:-0.34,/nneg:0.094,/nneu:0.863,/npos:0.043,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/n“The government shouldn’t be forcing churches to pay for abortion, and it is shameful and inappropriate that the government did so in this case at the bidding of Planned Parenthood,” said Jeremiah Galus, legal counsel for Alliance Defending Freedom (ADF), which represents the churches. “California officials are required to follow the law and legal precedent, not the dictates of groups that have an axe to grind against religious organizations that don’t share their views on abortion.”
+compound:0.5267,/nneg:0.071,/nneu:0.818,/npos:0.111,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/n
+compound:0.0,/nneg:0.0,/nneu:0.0,/npos:0.0,/nThe case is Foothill Church v. Rouillard, No. 2:15-cv-02165-KJM-EFB, in the United States District Court for the Eastern District of California Sacramento Division.', 'title': 'Emails Reveal Planned Parenthood Pressured California to Force Churches to Pay for Abortions', 'top_image': 'https://media.breitbart.com/media/2019/04/California-Church-Planned-Parenthood-1-640x335.jpg', 'url': 'https://www.breitbart.com/politics/2019/04/06/emails-reveal-planned-parenthood-pressured-california-to-force-churches-to-pay-for-abortions/'
+compound:-0.1779,/nneg:0.121,/nneu:0.817,/npos:0.062,/n{'positive': 6, 'neutral': 32, 'negative': 10}
